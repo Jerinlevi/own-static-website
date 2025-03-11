@@ -1,2 +1,2 @@
-## Live Website STATIC 🌐 
-[Visit My Website](websitestatic1.ccbp.tech)
+## 🌐 Live STATIC Website
+Click the link to visit: [websitestatic1.ccbp.tech](https://websitestatic1.ccbp.tech)
